@@ -3,6 +3,8 @@
 Trabajo final de Machine Learning (Universidad Católica del Uruguay).
 Integrantes: Bianca Villalba y Victoria Felser.
 
+**Informe del trabajo: [Informe.pdf](Informe.pdf)**
+
 Tema elegido: **series temporales**. Se predice la cantidad semanal de personas fallecidas en
 siniestros de tránsito en Uruguay (2013–2019) y se comparan modelos base, SARIMAX y LightGBM.
 
@@ -19,6 +21,7 @@ datos]. Catálogo Nacional de Datos Abiertos. https://catalogodatos.gub.uy/datas
 
 ```
 .
+├── Informe.pdf        # informe final del trabajo
 ├── main.py            # todo el proceso: limpieza, serie semanal, análisis exploratorio y modelos
 ├── requirements.txt   # librerías necesarias
 ├── datos/             # CSV originales de la UNASEV (2013–2019) y metadatos
