@@ -1,0 +1,4 @@
+comparacion,diferencia_mae,estadistico,p_valor
+SARIMAX vs. LightGBM,-0.206,-1.743,0.087
+SARIMAX vs. Promedio,-0.466,-3.319,0.002
+LightGBM vs. Promedio,-0.26,-2.919,0.005
